@@ -19,7 +19,7 @@ AI colab Notebooks Made or edited by HostsServer aka MSFTserver
   - based on a random selection of "things", "places", "colors", "styles", and "artists.
   - Credit to [dughogan](https://github.com/dughogan) orignal project on [Github](https://github.com/dughogan/VQGAN_Prompts)
  
-- #### [NNST.ipynb](NNST.ipynb) / [NNST-Batch.ipynb](NNST-Batch.ipynb)
+- #### [NNST.ipynb](NNST.ipynb) / [NNST_Batch.ipynb](NNST_Batch.ipynb)
   - colab implementation of Neural Neighbor Style Transfer
   - based on nearest-neighbors that achieves higher quality stylization than prior work, without sacrificing content preservation
   - Credit to [nkolkin13](https://github.com/nkolkin13) orignal project on [Github](https://github.com/nkolkin13/NeuralNeighborStyleTransfer)
